@@ -20,4 +20,6 @@ Below is another layout file that I made, displaying differing percentages of su
 
 ![ArcGIS 2009 smokers](https://github.com/user-attachments/assets/5e23c44c-42e9-445b-9465-8abb0c6339d1)
 
+Here is where I went a step further and am now displaying survey responses from 2010 using a raster format.  The red points represent cities where surveys were administered, and, based on survey responses, the mapping software colors the individual pixels on the map to display in red the regions with a higher concentration of daily smokers.
 
+[Layout.pdf](https://github.com/user-attachments/files/23130867/Layout.pdf)
