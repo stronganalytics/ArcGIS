@@ -22,4 +22,4 @@ Below is another layout file that I made, displaying differing percentages of su
 
 Here is where I went a step further and am now displaying survey responses from 2010 using a raster format.  The red points represent cities where surveys were administered, and, based on survey responses, the mapping software colors the individual pixels on the map to display in red the regions with a higher concentration of daily smokers.
 
-![Screenshot of Raster map](https://github.com/user-attachments/assets/b770d3ca-4d7d-413d-821b-e0d53dbffc34)
+![Screenshot of Raster map](https://github.com/user-attachments/assets/8cfe053a-3f1f-4b02-a244-bcae142d2e39)
