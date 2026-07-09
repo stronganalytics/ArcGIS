@@ -36,5 +36,10 @@ In the Spring of 2026, the members of our five student research team obtained da
 
 <img width="948" height="677" alt="image" src="https://github.com/user-attachments/assets/a59f03b2-9f14-4c9c-8858-b3740df0c4c8" />
 
+
+<img width="1056" height="816" alt="Diabetes Choropleth w Legend" src="https://github.com/user-attachments/assets/41df6900-1dec-458f-aa70-3a4fc5f0fcce" />
+
+<img width="1056" height="816" alt="High blood pressure Choropleth w Legend" src="https://github.com/user-attachments/assets/88283f82-d79d-432f-b89a-15f9f6fac54e" />
+
 <img width="3300" height="2550" alt="median income choropleth 4 9 26" src="https://github.com/user-attachments/assets/7bfde71c-3d71-4ff2-8976-06ab72548175" />
 
