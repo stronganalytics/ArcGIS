@@ -1,4 +1,4 @@
-# ArcGIS
+# ArcGIS Pro Geographic Information System applied project
 ArcGIS Pro is a professional desktop Geographic Information System (GIS) software.  In the Spring semester of 2025 at California State University San Bernardino, I approached a data analytics faculty member, Dr. Benjamin Becerra, about an opportunity to assist him with research.  I developed skills in ArcGIS data visualization through self-study throughout the year and joined a five student research team with Dr. Becerra in the Spring semester of 2026.  Below, I showcase my progressive learning through skills-building excercises.  This work then culminates at the bottom with a presentation on the prevalence of diabetes and high blood pressure in San Bernardino and Riverside counties which a teammate and I presented at CSUSB's annual Meeting of the Minds conference on April 15th, 2026.
 
 In the screenshot below, I added a USA states feature layer to a map in ArcGIS, and had each state display its "2023 population" value using bubbles.  Smaller bubbles indicate a smaller population and larger bubbles indicate a larger population.
