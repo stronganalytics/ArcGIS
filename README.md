@@ -26,12 +26,12 @@ Here is where I went a step further and am now displaying survey responses from 
 
 In the Spring of 2026, the members of our five student research team obtained data from the U.S. Census Bureau for census tracts to provide geographic boundaries, the Centers for Medicare and Medicaid Services (CMS) to plot hospital locations, the Center for Disease Control and Prevention (CDC) to display disease prevalence in different areas, the American Community Survey to provide income-level information, and OpenStreetMap.  We joined the data together in ArcGIS Pro to visualize disease prevalence across census tracts in San Bernardino and Riverside counties.  Our team divided into three groups and prepared posters displaying our findings for different types of diseases.  Sara Javaheri and I worked together to build and present a poster and an oral presentation on diabetes and high blood pressure prevalence at the Meeting of the Minds conference on April 15th at California State University San Bernardino.
 
+<img width="3478" height="2622" alt="IMG_0016b" src="https://github.com/user-attachments/assets/05ff7a6c-c6eb-4c68-8955-d7d75b80ae7b" />
+
+<img width="4032" height="3024" alt="IMG_3073" src="https://github.com/user-attachments/assets/9d2df5da-617c-49a1-85c6-8e92f1639257" />
+
 <img width="981" height="677" alt="image" src="https://github.com/user-attachments/assets/c876eb18-0584-4af9-b8ae-b14064014206" />
 
 <img width="948" height="677" alt="image" src="https://github.com/user-attachments/assets/1835202d-d552-4583-bab6-93df4f722bed" />
 
-<img width="732" height="462" alt="image" src="https://github.com/user-attachments/assets/a59f03b2-9f14-4c9c-8858-b3740df0c4c8" />
-
-<img width="3478" height="2622" alt="IMG_0016b" src="https://github.com/user-attachments/assets/05ff7a6c-c6eb-4c68-8955-d7d75b80ae7b" />
-
-<img width="4032" height="3024" alt="IMG_3073" src="https://github.com/user-attachments/assets/9d2df5da-617c-49a1-85c6-8e92f1639257" />
+<img width="948" height="677" alt="image" src="https://github.com/user-attachments/assets/a59f03b2-9f14-4c9c-8858-b3740df0c4c8" />
