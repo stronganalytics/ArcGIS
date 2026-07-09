@@ -28,15 +28,6 @@ In the Spring of 2026, the members of our five student research team obtained da
 
 <img width="3478" height="2622" alt="IMG_0016b" src="https://github.com/user-attachments/assets/05ff7a6c-c6eb-4c68-8955-d7d75b80ae7b" />
 
-<img width="4032" height="3024" alt="IMG_3073" src="https://github.com/user-attachments/assets/9d2df5da-617c-49a1-85c6-8e92f1639257" />
-
-<img width="981" height="677" alt="image" src="https://github.com/user-attachments/assets/c876eb18-0584-4af9-b8ae-b14064014206" />
-
-<img width="948" height="677" alt="image" src="https://github.com/user-attachments/assets/1835202d-d552-4583-bab6-93df4f722bed" />
-
-<img width="948" height="677" alt="image" src="https://github.com/user-attachments/assets/a59f03b2-9f14-4c9c-8858-b3740df0c4c8" />
-
-
 <img width="1056" height="816" alt="Diabetes Choropleth w Legend" src="https://github.com/user-attachments/assets/41df6900-1dec-458f-aa70-3a4fc5f0fcce" />
 
 <img width="1056" height="816" alt="High blood pressure Choropleth w Legend" src="https://github.com/user-attachments/assets/88283f82-d79d-432f-b89a-15f9f6fac54e" />
