@@ -35,3 +35,6 @@ In the Spring of 2026, the members of our five student research team obtained da
 <img width="948" height="677" alt="image" src="https://github.com/user-attachments/assets/1835202d-d552-4583-bab6-93df4f722bed" />
 
 <img width="948" height="677" alt="image" src="https://github.com/user-attachments/assets/a59f03b2-9f14-4c9c-8858-b3740df0c4c8" />
+
+<img width="3300" height="2550" alt="median income choropleth 4 9 26" src="https://github.com/user-attachments/assets/7bfde71c-3d71-4ff2-8976-06ab72548175" />
+
