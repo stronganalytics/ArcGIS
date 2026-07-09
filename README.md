@@ -34,3 +34,4 @@ In the Spring of 2026, the members of Dr. Becerra's five student research team o
 
 <img width="3300" height="2550" alt="median income choropleth 4 9 26" src="https://github.com/user-attachments/assets/7bfde71c-3d71-4ff2-8976-06ab72548175" />
 
+<img width="4032" height="3024" alt="IMG_3073" src="https://github.com/user-attachments/assets/080b52a0-2470-409a-9bf3-cd82c2fc32c4" />
